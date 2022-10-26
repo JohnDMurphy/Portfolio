@@ -17,7 +17,7 @@
 }
 
 #nav-bar {
-  font-family: 'Inter';
+  font-family: 'Inter', sans-serif;
   display: flex;
   align-items: center;
   height: 40px;
