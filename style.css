@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Inter';
+  src: url(./fonts/inter);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+#headliner {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(./images/header-illsutration-mobile.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 5rem 1.5rem;
+  gap: 4rem;
+}
+
+#nav-bar {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding: 0 24px 0 24px;
+  justify-content: space-between;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+#nav-icon {
+  width: 18px;
+  height: 12px;
+  color: #28352f;
+}
+
+#nav-welcome {
+  color: #28352f;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+#intro {
+  font-weight: 800;
+}
+
+#para {
+  font-weight: 400;
+  line-height: 28px;
+  font-size: 1.2rem;
+}
+
+.socials {
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+}
+
+.blue {
+  color: #172b4d;
+}
+
+.green {
+  color: #36b37f;
+}

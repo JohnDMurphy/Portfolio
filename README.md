@@ -1,49 +1,35 @@
-# Project Name
+# Portfolio Project
 
-> Description the project.
+> A copy of a Microverse porfolio template. A mobile first responsive portfolio.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Javascript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://johndmurphy.github.io/portfolio/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+You can add the steps to follow to clone the project,
 
-To get a local copy up and running follow these simple example steps.
+Step 1:if you dont have git installed on your machine you can download it from [GitHub](https://git-scm.com/downloads).
 
-### Prerequisites
+Once you have git installed on your machine you can clone the project by running the command below on your local machine
 
-### Setup
+`git clone (https://github.com/JohnDMurphy/portfolio.git)`
 
-### Install
+Alternatively you can download the zip file of the project by clicking on the `Code` button on the right side of your project page and clicking on `Download ZIP`
 
-### Usage
+Step 2: Locate the folder where you cloned your project to and open the `index.html` file in your browser to view the project.
 
-### Run tests
+👤 **Author**
 
-### Deployment
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@JohnDMurphy](https://github.com/JohnDMurphy)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/john-murphy-5020271b5)
 
 ## 🤝 Contributing
 
@@ -57,9 +43,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microvrse
 
 ## 📝 License
 
