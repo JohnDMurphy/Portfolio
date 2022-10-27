@@ -164,9 +164,26 @@ h3 {
 }
 
 .misc-card {
+  position: relative;
   width: 95%;
   height: 22rem;
   background: #ebf0ee;
   border: 1px solid #c1c7d0;
   border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.misc-p {
+  display: inline-block;
+  text-align: center;
+  padding: 0.75rem;
+  font-weight: 600;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  background: #ffffff;
+  border-radius: 8px;
+  margin: 4px;
 }
