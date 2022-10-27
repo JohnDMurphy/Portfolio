@@ -19,7 +19,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   padding: 5rem 1.5rem;
-  gap: 4rem;
+  gap: 5.5rem;
 }
 
 #nav-bar {
@@ -69,4 +69,31 @@
 
 .green {
   color: #36b37f;
+}
+
+#projects-section {
+  display: grid;
+  flex-direction: column;
+  align-items: stretch;
+  justify-items: center;
+  width: 100%;
+  grid-gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+#proj-intro {
+  text-align: center;
+  color: fff;
+  font-weight: 700;
+}
+
+.project-card {
+  width: 95%;
+  height: 28rem;
+  background: purple;
+  border-radius: 8px;
+}
+
+#indicator {
+  margin-bottom: 3.8rem;
 }
