@@ -111,9 +111,9 @@
 
 .art-sec {
   width: 100%;
-  display: flex;
+  /* display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-around; */
 }
 
 .language {
@@ -125,6 +125,7 @@
   background: #ebf0ee;
   border-radius: 4px;
   padding: 8px 12px;
+  float: inline-start;
 }
 
 h3 {
